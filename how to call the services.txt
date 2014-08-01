@@ -9,3 +9,8 @@ http://160.40.50.207/wikirate/statistics
 
 External sources list (FB, Twitter, RSS)
 http://160.40.50.207/wikirate/source/list
+
+
+Suggested Source
+
+http://mklab.iti.gr/wikirate-sandbox/api/index.php/recommendations/?topic=aaa&company=bbb&max_char=0
